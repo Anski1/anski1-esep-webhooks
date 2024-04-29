@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "YP4bOGDZ9t3zD5skOLUv03/AyYI1h1RwSqjt2AQceQvCH/4M2ChSEAo94AwyJghiduqMU7zH5B2RQn/qz/Bsxg==",
+  "success": true,
+  "projectFilePath": "/Users/anskisaint-fleur/Documents/Esep-Webhook/anski1-esep-webhooks/EsepWebhook.csproj",
+  "expectedPackageFiles": [
+    "/Users/anskisaint-fleur/.nuget/packages/amazon.lambda.core/2.2.0/amazon.lambda.core.2.2.0.nupkg.sha512",
+    "/Users/anskisaint-fleur/.nuget/packages/amazon.lambda.serialization.systemtextjson/2.4.1/amazon.lambda.serialization.systemtextjson.2.4.1.nupkg.sha512",
+    "/Users/anskisaint-fleur/.nuget/packages/microsoft.netcore.app.crossgen2.osx-arm64/8.0.3/microsoft.netcore.app.crossgen2.osx-arm64.8.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
